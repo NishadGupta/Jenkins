@@ -46,7 +46,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in add_test.py">
+  <component name="RunManager" selected="Python tests.Unittests for add_test.TestStringMethods">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Jenkins" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,6 +89,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for add_test.TestStringMethods" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Jenkins" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;add_test.TestStringMethods&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for add_test.TestStringMethods.test_add" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Jenkins" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;add_test.TestStringMethods.test_add&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in add_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Jenkins" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,6 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for add_test.TestStringMethods" />
+        <item itemvalue="Python tests.Unittests for add_test.TestStringMethods.test_add" />
         <item itemvalue="Python tests.Unittests in add_test.py" />
         <item itemvalue="Python.HelloWorld" />
         <item itemvalue="Python.HelloWorldOne" />
@@ -136,22 +166,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="672" height="179" key="GridCell.Tab.0.bottom" timestamp="1592647597897">
+    <state width="1345" height="237" key="GridCell.Tab.0.bottom" timestamp="1592657735393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="672" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592647597897" />
-    <state width="672" height="179" key="GridCell.Tab.0.center" timestamp="1592647597897">
+    <state width="1345" height="237" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592657735393" />
+    <state width="1345" height="237" key="GridCell.Tab.0.center" timestamp="1592657735393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="672" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592647597897" />
-    <state width="672" height="179" key="GridCell.Tab.0.left" timestamp="1592647597896">
+    <state width="1345" height="237" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592657735393" />
+    <state width="1345" height="237" key="GridCell.Tab.0.left" timestamp="1592657735393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="672" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592647597896" />
-    <state width="672" height="179" key="GridCell.Tab.0.right" timestamp="1592647597897">
+    <state width="1345" height="237" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592657735393" />
+    <state width="1345" height="237" key="GridCell.Tab.0.right" timestamp="1592657735393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="672" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592647597897" />
+    <state width="1345" height="237" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592657735393" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1592643412787">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
